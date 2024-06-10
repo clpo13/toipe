@@ -12,7 +12,7 @@ const CLI_HELP: &str = "A trusty terminal typing tester.
 Keyboard shortcuts:
 ctrl-c: quit
 ctrl-r: restart test with a new set of words
-ctrc-w: delete last word
+ctrl-w: delete last word
 ";
 
 /// Main configuration for Toipe.
